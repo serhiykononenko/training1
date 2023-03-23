@@ -1,0 +1,13 @@
+# Initial gitignore file
+.env/
+.idea/
+.pytest_cache
+results/
+screenshots/
+venv/
+allure-results/
+allure-report/
+allure-results.zip
+.env.*
+*.pyc
+*.xml
